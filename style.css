@@ -1,0 +1,70 @@
+.abc:hover{
+    opacity : 0.5;
+  
+    
+}
+.bc:hover{
+    opacity : 0.5;
+}
+.abc p{
+  margin-left: 500px;
+}
+h1{
+
+margin-bottom: 13ch;
+color: rgb(255, 255, 255);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 50px;
+margin-right: 4cm;
+           }
+.icon{
+position: absolute;
+
+
+}
+.all {
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+
+
+}
+.footer{
+
+margin-left: 30cm;
+margin-top:-40cm;
+
+}
+
+.abc{
+
+    margin-top: 5ch;
+
+}
+.bc{
+    margin-left: 6cm;
+    margin-top: 2cm;
+    
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top:-10cm;
+    margin-left: 3cm;
+}
+
+h2{
+    color: rgb(211, 202, 202);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+    margin-left: 3cm;
+               }
+               h3{
+                color: rgb(61, 59, 59);
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+            
+
+                           }
+            
